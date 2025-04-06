@@ -7,7 +7,7 @@
 - 💡 Open to collaborating with game dev partners on fun and creative projects
 - 
 - 📫 Contact
-- Discord: yuyue_71
+- Discord: [yuyue_71](<https://discord.com/users/795999599025848370>)
 - Gmail: dingbolun3@gmail.com
 -
 -
@@ -20,7 +20,7 @@
 - 💡 開放與多位 遊戲開發夥伴 合作，共同完成有趣且創意的專案
 -
 - 📫 聯絡方式
-- Discord：yuyue_71
+- Discord：[yuyue_71](<https://discord.com/users/795999599025848370>)
 - Gmail：dingbolun3@gmail.com
 
 
