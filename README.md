@@ -1,30 +1,210 @@
-- 👋 About Me
-- Hi! I'm YuYue, a passionate and experienced game lover from Taiwan.
-- I’ve loved games since I was young, and now I’m learning to make my own.
--
-- 🎮 I enjoy playing games and I'm deeply interested in game development
-- 🌱 Currently learning Python, Java, C#, and Unity
-- 💡 Open to collaborating with game dev partners on fun and creative projects
-- 
-- 📫 Contact
-- Discord: [yuyue_71](<https://discord.com/users/795999599025848370>)
-- Gmail: dingbolun3@gmail.com
--
--
-- 👋 關於我
-- 嗨！我是 YuYue，來自台灣，一位熱情且有經驗的遊戲愛好者。
-- 我從小就熱愛遊戲，現在正努力學習如何自己開發遊戲。
--
-- 🎮 我喜歡玩遊戲，也對開發遊戲充滿興趣
-- 🌱 目前正在學習 Python、Java、C# 和 Unity
-- 💡 開放與多位 遊戲開發夥伴 合作，共同完成有趣且創意的專案
--
-- 📫 聯絡方式
-- Discord：[yuyue_71](<https://discord.com/users/795999599025848370>)
-- Gmail：dingbolun3@gmail.com
+<!-- 訪客計數器 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YuYue71&style=for-the-badge&color=0d1117&labelColor=181824" alt="Profile Views" />
+</div>
 
+<!-- 主標題 - 黑暗沉默風格 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=32&duration=3000&pause=1000&color=E0E0E0&center=true&width=600&lines=YuYue+Sama;Game+Developer+%7C+Creative+Soul;%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E8%80%85+%7C+%E5%89%B5%E6%84%8F%E7%81%B5%E9%AD%82" alt="Typing animation" />
+</div>
 
-<!---
-YuYue71/YuYue71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="#-about-me"><strong>English</strong></a> • 
+  <a href="#-關於我"><strong>中文</strong></a>
+</div>
+
+---
+
+## 💭 Philosophical Statement
+
+> **Game design isn't about designing games; it's about designing players.**
+>
+> 恐懼社交的我，在家獨自造神
+
+---
+
+## 🎯 About Me
+
+### 🌍 Profile
+- 🎮 **Passionate Game Developer** from Taiwan with deep love for creative game development
+- 🧠 **Self-taught Creative** learning to transform passion into reality
+- 🤝 **Collaborative Spirit** seeking like-minded partners for innovative projects
+- 🌱 **Eternal Learner** constantly expanding technical and creative horizons
+
+### 💡 Journey
+I've been captivated by games since childhood. What started as pure enjoyment has evolved into a mission: **to create experiences that move people**. Currently, I'm combining technical skills with creative vision to build games that matter.
+
+### 🛠️ Tech Stack
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%20sharp&logoColor=white" alt="C#"/>
+
+**Game Development**
+<br/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000" alt="Unity"/>
+
+</div>
+
+### 📊 Skills Progress
+```
+Game Development  ████████░░ 80%  🎮
+Python            ███████░░░ 70%  🐍
+Java              ██████░░░░ 60%  ☕
+C#                ███████░░░ 70%  #️⃣
+Creative Thinking █████████░ 90%  💡
+```
+
+### 🎪 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🔗 <a href="https://github.com/YuYue71">View My Repositories</a></strong>
+      <br/><br/>
+      <em>13 repositories exploring game dev & creative coding</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>🌟 <a href="https://github.com/YuYue71?tab=repositories">All Projects</a></strong>
+      <br/><br/>
+      <em>Ranging from prototypes to complete games</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Let's Create Together
+
+### 💬 Collaboration
+I'm actively seeking partners for:
+- 🎮 **Game Development Projects** (Any scale, any genre)
+- 🤖 **Creative AI Integration** in games
+- 🎨 **Game Design Discussions** and brainstorming
+- 📚 **Learning & Teaching** game development concepts
+
+### 📫 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| **Discord** | [yuyue_71](https://discord.com/users/795999599025848370) |
+| **Email** | dingbolun3@gmail.com |
+| **Instagram** | [@yuyue.code](https://www.instagram.com/yuyue.code?igsh=Nnd1dDh4cHRjN3hy) |
+| **Steam** | [YuYue_Sama](https://steamcommunity.com/profiles/76561199201270570) |
+| **YouTube** | [My Channel](https://youtube.com/channel/UC1ivyBIvbRxKGYp5UdpBu7w?si=oqWQpm2zeTlvbS5d) |
+
+</div>
+
+### 🎯 Open For
+- ✅ **Game Dev Collaborations**
+- ✅ **Project Partnerships**
+- ✅ **Code Reviews & Feedback**
+- ✅ **Creative Discussions**
+- ✅ **Mentoring & Learning**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuYue71&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e0e0e0&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuYue71&theme=dark&hide_border=true&bg_color=0d1117&title_color=e0e0e0&layout=compact)
+
+</div>
+
+---
+
+## 🌟 Favorite Quote
+
+<div align="center">
+  <blockquote>
+    <p><em>"The best time to plant a tree was 20 years ago.<br/>The second best time is now."</em></p>
+    <p>— Chinese Proverb</p>
+  </blockquote>
+</div>
+
+---
+
+<div align="center">
+
+### 🌍 關於我 (Chinese Version)
+
+</div>
+
+## 🎯 關於我
+
+### 🌍 簡介
+- 🎮 **資深遊戲愛好者** 來自台灣，對遊戲開發充滿熱情
+- 🧠 **自學創意人** 正在努力將熱情轉化為現實
+- 🤝 **開放協作** 尋找志同道合的開發夥伴
+- 🌱 **永遠學習** 不斷拓展技術與創意視野
+
+### 💡 我的故事
+從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
+
+### 🛠️ 技術棧
+```
+遊戲開發  ████████░░ 80%  🎮
+Python   ███████░░░ 70%  🐍
+Java     ██████░░░░ 60%  ☕
+C#       ███████░░░ 70%  #️⃣
+創意思考 █████████░ 90%  💡
+```
+
+---
+
+## 🚀 一起創作吧！
+
+### 💬 合作機會
+我正在尋找在以下領域的合作夥伴：
+- 🎮 **遊戲開發專案**（任何規模、任何類型）
+- 🤖 **創意 AI 整合** 於遊戲中
+- 🎨 **遊戲設計討論** 與腦力激盪
+- 📚 **學習與教學** 遊戲開發概念
+
+### 📫 聯絡方式
+
+| 平台 | 連結 |
+|------|------|
+| **Discord** | [yuyue_71](https://discord.com/users/795999599025848370) |
+| **Email** | dingbolun3@gmail.com |
+| **Instagram** | [@yuyue.code](https://www.instagram.com/yuyue.code?igsh=Nnd1dDh4cHRjN3hy) |
+| **Steam** | [YuYue_Sama](https://steamcommunity.com/profiles/76561199201270570) |
+| **YouTube** | [我的頻道](https://youtube.com/channel/UC1ivyBIvbRxKGYp5UdpBu7w?si=oqWQpm2zeTlvbS5d) |
+
+### 🎯 開放合作
+- ✅ **遊戲開發協作**
+- ✅ **專案合作**
+- ✅ **程式碼審查與回饋**
+- ✅ **創意討論**
+- ✅ **指導與學習**
+
+---
+
+## 💌 Thank You
+
+<div align="center">
+  <p>Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about games. 🎮</p>
+  <p>感謝你的造訪！如果你想合作或只是想聊聊遊戲，歡迎隨時聯絡！ 🎮</p>
+  
+  <br/>
+  
+  <img src="https://github.com/YuYue71/YuYue71/blob/main/assets/footer-animation.gif?raw=true" alt="Footer Animation" width="400" style="opacity: 0.8;" />
+  
+  <br/><br/>
+  
+  <sub>✨ Designed with passion | 用熱情設計 ✨</sub>
+</div>
+
+---
+
+<!-- 隱藏的註解：GitHub Actions 自動更新提示 -->
+<!-- 此 README 會通過 GitHub Actions 定期自動更新統計數據 -->
+<!-- This README is automatically updated by GitHub Actions -->
