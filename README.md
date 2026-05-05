@@ -63,6 +63,8 @@
 
 <div align="center">
 
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuYue71&theme=github_dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuYue71&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e0e0e0&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuYue71&theme=dark&hide_border=true&bg_color=0d1117&title_color=e0e0e0&layout=compact)
@@ -74,8 +76,8 @@
 ## 感謝你 | Thank You
 
 <div align="center">
-  <p>Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about games.</p>
-  <p>感謝你的造訪！如果你想合作或只是想聊聊遊戲，歡迎隨時聯絡！</p>
+  <p>Thanks for visiting!</p>
+  <p>感謝你的造訪!</p>
   
   <br/>
   
