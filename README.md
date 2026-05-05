@@ -76,12 +76,6 @@
   <p>感謝你的造訪!</p>
   
   <br/>
-
-  <svg width="100%" height="50" viewBox="0 0 200 50">
-    <rect width="200" height="50" fill="none"/>
-    <line x1="0" y1="25" x2="200" y2="25" stroke="#58a6ff" stroke-width="2" opacity="0.3"/>
-    <circle cx="100" cy="25" r="8" fill="#58a6ff" opacity="0.6"/>
-  </svg>
   
   <img src="https://github.com/YuYue71/YuYue71/blob/main/assets/footer-animation.gif?raw=true" alt="Footer Animation" width="400" style="opacity: 0.8;" />
   
