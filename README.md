@@ -19,9 +19,11 @@
 
 <div align="center">
 
-# 關於我 About Me
+### 關於我 About Me
 
 </div>
+
+---
 
 ## Profile | 簡介
 - **Passionate Game Developer** from Taiwan with deep love for creative game development
