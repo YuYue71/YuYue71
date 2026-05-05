@@ -64,7 +64,7 @@
 
 **Tools**
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,https://github.com/tandpfun/skill-icons">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
