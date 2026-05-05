@@ -59,7 +59,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub 工作流 | GitHub Stats
 
 <div align="center">
 
