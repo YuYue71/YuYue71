@@ -31,7 +31,7 @@
 > - 從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
 
 
-### 🛠️ Tech Stack
+### 技術棧 | Tech Stack
 <div align="center">
 
 **Languages**
@@ -45,41 +45,6 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000" alt="Unity"/>
 
 </div>
-
-### 🎪 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>🔗 <a href="https://github.com/YuYue71">View My Repositories</a></strong>
-      <br/><br/>
-      <em>13 repositories exploring game dev & creative coding</em>
-    </td>
-    <td align="center" width="50%">
-      <strong>🌟 <a href="https://github.com/YuYue71?tab=repositories">All Projects</a></strong>
-      <br/><br/>
-      <em>Ranging from prototypes to complete games</em>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Let's Create Together
-
-### 💬 Collaboration
-I'm actively seeking partners for:
-- 🎮 **Game Development Projects** (Any scale, any genre)
-- 🤖 **Creative AI Integration** in games
-- 🎨 **Game Design Discussions** and brainstorming
-- 📚 **Learning & Teaching** game development concepts
-
-### 🎯 Open For
-- ✅ **Game Dev Collaborations**
-- ✅ **Project Partnerships**
-- ✅ **Code Reviews & Feedback**
-- ✅ **Creative Discussions**
-- ✅ **Mentoring & Learning**
 
 ---
 
@@ -95,40 +60,11 @@ I'm actively seeking partners for:
 
 ---
 
-## 🌟 Favorite Quote
-
-<div align="center">
-  <blockquote>
-    <p><em>"The best time to plant a tree was 20 years ago.<br/>The second best time is now."</em></p>
-    <p>— Chinese Proverb</p>
-  </blockquote>
-</div>
-
----
-
-## 🚀 一起創作吧！
-
-### 💬 合作機會
-我正在尋找在以下領域的合作夥伴：
-- 🎮 **遊戲開發專案**（任何規模、任何類型）
-- 🤖 **創意 AI 整合** 於遊戲中
-- 🎨 **遊戲設計討論** 與腦力激盪
-- 📚 **學習與教學** 遊戲開發概念
-
-### 🎯 開放合作
-- ✅ **遊戲開發協作**
-- ✅ **專案合作**
-- ✅ **程式碼審查與回饋**
-- ✅ **創意討論**
-- ✅ **指導與學習**
-
----
-
 ## 💌 Thank You
 
 <div align="center">
-  <p>Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about games. 🎮</p>
-  <p>感謝你的造訪！如果你想合作或只是想聊聊遊戲，歡迎隨時聯絡！ 🎮</p>
+  <p>Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about games.</p>
+  <p>感謝你的造訪！如果你想合作或只是想聊聊遊戲，歡迎隨時聯絡！</p>
   
   <br/>
   
