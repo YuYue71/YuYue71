@@ -77,7 +77,9 @@
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yuyue71&show_icons=true&theme=radical" alt="Stats" />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的帳號&show_icons=true&theme=radical" alt="Stats" />
+  </div>
   
   <br/><br/>
   
