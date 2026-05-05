@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=32&duration=3000&pause=1000&color=E0E0E0&center=true&width=600&lines=YuYue+Sama;Game+Developer+%7C+Creative+Soul;%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E8%80%85+%7C+%E5%89%B5%E6%84%8F%E8%88%87%E9%9D%88%E9%AD%82" alt="Typing animation" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400"/>
+</div>
 
 <div align="center">
 
