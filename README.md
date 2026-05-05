@@ -77,7 +77,7 @@
   
   <br/>
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcHoxamZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VfbmFtZSZjdD1n/Lp71Uqhzn286RpXzeF/giphy.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400"/>
   
   <br/><br/>
   
