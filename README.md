@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,md,py,java,js" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,md,py,java,js,bash" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,blender,clion,idea,rider,pycharm,webstorm,phpstorm,cloudflare,discordjs,dotnet,dynamodb,eclipse,figma,gcp,git,gradle,mysql,nodejs,powershell,react,sequelize,unity,visualstudio,vscode" />
   </a>
 </p>
 
