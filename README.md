@@ -77,7 +77,7 @@
   
   <br/>
   
-  <img src="https://github.com/YuYue71/YuYue71/blob/main/assets/footer-animation.gif?raw=true" alt="Footer Animation" width="400" style="opacity: 0.8;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuyue71&show_icons=true&theme=radical" alt="Stats" />
   
   <br/><br/>
   
