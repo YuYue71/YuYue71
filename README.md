@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 關於我 | About Me
+### 關於我 About Me
 
 </div>
 
