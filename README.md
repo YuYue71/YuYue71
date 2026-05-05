@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=32&duration=3000&pause=1000&color=E0E0E0&center=true&width=600&lines=YuYue+Sama;Game+Developer+%7C+Creative+Soul;%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E8%80%85+%7C+%E5%89%B5%E6%84%8F%E8%88%87%E9%9D%88%E9%AD%82" alt="Typing animation" />
 </div>
 
-<div align="center">
-  <a href="#-about-me"><strong>English</strong></a> • 
-  <a href="#-關於我"><strong>中文</strong></a>
-</div>
-
 ---
 
 ## About Me
