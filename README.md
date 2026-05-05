@@ -77,7 +77,7 @@
   
   <br/>
   
-    <img src="https://github-readme-stats.vercel.app/api?username=yuyue71&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuyue71&show_icons=true&theme=radical" alt="Stats" />
   
   <br/><br/>
   
