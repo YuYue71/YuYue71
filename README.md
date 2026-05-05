@@ -15,15 +15,7 @@
 
 ---
 
-## 💭 Philosophical Statement
-
-> **Game design isn't about designing games; it's about designing players.**
->
-> 恐懼社交的我，在家獨自造神
-
----
-
-## 🎯 About Me
+## About Me
 
 ### 🌍 Profile
 - 🎮 **Passionate Game Developer** from Taiwan with deep love for creative game development
@@ -200,7 +192,7 @@ C#       ███████░░░ 70%  #️⃣
   
   <br/><br/>
   
-  <sub>✨ Designed with passion | 用熱情設計 ✨</sub>
+  <sub>Game design isn't about designing games; it's about designing players</sub>
 </div>
 
 ---
