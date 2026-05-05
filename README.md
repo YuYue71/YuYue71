@@ -27,8 +27,8 @@
 - **永遠學習** 不斷拓展技術與創意視野
 
 ### Journey | 我的故事
-> I've been captivated by games since childhood. What started as pure enjoyment has evolved into a mission: **to create experiences that move people**. Currently, I'm combining technical skills with creative vision to build games that matter.
-> 從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
+> - I've been captivated by games since childhood. What started as pure enjoyment has evolved into a mission: **to create experiences that move people**. Currently, I'm combining technical skills with creative vision to build games that matter.
+> - 從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
 
 
 ### 🛠️ Tech Stack
