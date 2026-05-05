@@ -67,19 +67,15 @@
 
 </div>
 
----
-
-## 感謝你 | Thank You
-
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400"/>
+
+  <br/><br/>
+
   <p>Thanks for visiting!</p>
   <p>感謝你的造訪!</p>
   
   <br/>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400"/>
-  
-  <br/><br/>
   
   <sub>Game design isn't about designing games; it's about designing players</sub>
 </div>
