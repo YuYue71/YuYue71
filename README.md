@@ -84,7 +84,6 @@
   <sub>Game design isn't about designing games; it's about designing players</sub>
 </div>
 
----
 
 <!-- 隱藏的註解：GitHub Actions 自動更新提示 -->
 <!-- 此 README 會通過 GitHub Actions 定期自動更新統計數據 -->
