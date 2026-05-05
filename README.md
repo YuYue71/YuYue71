@@ -68,15 +68,6 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400"/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VfbmFtZSZjdD1z/3o7TKMGpxx7XlT8C3u/giphy.gif" width="100"/>
-
-  <img src="https://github-contribution-graph-snake.vercel.app/api?github=你的帳號&color_snake=#7845ab&color_dots=#bfd6f6,#8dbdff,#64a1ff,#4b91ff,#217aff" alt="Snake animation" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width="100%"/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
