@@ -10,7 +10,11 @@
 
 ---
 
-## About Me
+<div align="center">
+
+### 關於我 | About Me
+
+</div>
 
 ### Profile | 簡介
 - **Passionate Game Developer** from Taiwan with deep love for creative game development
@@ -22,8 +26,10 @@
 - **Eternal Learner** constantly expanding technical and creative horizons
 - **永遠學習** 不斷拓展技術與創意視野
 
-### Journey
-I've been captivated by games since childhood. What started as pure enjoyment has evolved into a mission: **to create experiences that move people**. Currently, I'm combining technical skills with creative vision to build games that matter.
+### Journey | 我的故事
+> I've been captivated by games since childhood. What started as pure enjoyment has evolved into a mission: **to create experiences that move people**. Currently, I'm combining technical skills with creative vision to build games that matter.
+> 從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
+
 
 ### 🛠️ Tech Stack
 <div align="center">
@@ -39,15 +45,6 @@ I've been captivated by games since childhood. What started as pure enjoyment ha
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000" alt="Unity"/>
 
 </div>
-
-### 📊 Skills Progress
-```
-Game Development  ████████░░ 80%  🎮
-Python            ███████░░░ 70%  🐍
-Java              ██████░░░░ 60%  ☕
-C#                ███████░░░ 70%  #️⃣
-Creative Thinking █████████░ 90%  💡
-```
 
 ### 🎪 Featured Projects
 
@@ -76,20 +73,6 @@ I'm actively seeking partners for:
 - 🤖 **Creative AI Integration** in games
 - 🎨 **Game Design Discussions** and brainstorming
 - 📚 **Learning & Teaching** game development concepts
-
-### 📫 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| **Discord** | [yuyue_71](https://discord.com/users/795999599025848370) |
-| **Email** | dingbolun3@gmail.com |
-| **Instagram** | [@yuyue.code](https://www.instagram.com/yuyue.code?igsh=Nnd1dDh4cHRjN3hy) |
-| **Steam** | [YuYue_Sama](https://steamcommunity.com/profiles/76561199201270570) |
-| **YouTube** | [My Channel](https://youtube.com/channel/UC1ivyBIvbRxKGYp5UdpBu7w?si=oqWQpm2zeTlvbS5d) |
-
-</div>
 
 ### 🎯 Open For
 - ✅ **Game Dev Collaborations**
@@ -120,27 +103,6 @@ I'm actively seeking partners for:
     <p>— Chinese Proverb</p>
   </blockquote>
 </div>
-
----
-
-<div align="center">
-
-### 🌍 關於我 (Chinese Version)
-
-</div>
-
-
-### 💡 我的故事
-從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
-
-### 🛠️ 技術棧
-```
-遊戲開發  ████████░░ 80%  🎮
-Python   ███████░░░ 70%  🐍
-Java     ██████░░░░ 60%  ☕
-C#       ███████░░░ 70%  #️⃣
-創意思考 █████████░ 90%  💡
-```
 
 ---
 
