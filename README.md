@@ -55,41 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i="cs" />
-  </a>
-</p>
-
-<br/><br/>
-
-**工具 | Tools**
-<br/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
-  </a>
-</p>
-
-<br/><br/>
-
-**社群 | Community**
-<br/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
-  </a>
-</p>
-
-<br/><br/>
-
-
-**平台 | Platform**
-<br/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i="cs,css,html,md,py,java,js" />
   </a>
 </p>
 
