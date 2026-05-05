@@ -71,7 +71,7 @@
 
 ---
 
-## Thank You
+## 感謝你 | Thank You
 
 <div align="center">
   <p>Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about games.</p>
