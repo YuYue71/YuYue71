@@ -96,8 +96,6 @@
   
   <sub>Game design isn't about designing games; it's about designing players</sub>
 
-  <br/><br/>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
