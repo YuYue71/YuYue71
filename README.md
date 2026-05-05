@@ -71,7 +71,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-  <br/>
+  <br/><br/>
 
   <p>Thanks for visiting!</p>
   <p>感謝你的造訪!</p>
