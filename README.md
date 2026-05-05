@@ -59,6 +59,39 @@
   </a>
 </p>
 
+<br/><br/>
+
+**工具 | Tools**
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+<br/><br/>
+
+**社群 | Community**
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+<br/><br/>
+
+**平台 | Platform**
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
 </div>
 
 <div align="center">
