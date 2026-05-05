@@ -12,13 +12,17 @@
 
 ## About Me
 
-### 🌍 Profile
-- 🎮 **Passionate Game Developer** from Taiwan with deep love for creative game development
-- 🧠 **Self-taught Creative** learning to transform passion into reality
-- 🤝 **Collaborative Spirit** seeking like-minded partners for innovative projects
-- 🌱 **Eternal Learner** constantly expanding technical and creative horizons
+### Profile | 簡介
+- **Passionate Game Developer** from Taiwan with deep love for creative game development
+- **資深遊戲愛好者** 來自台灣，對遊戲開發充滿熱情
+- **Self-taught Creative** learning to transform passion into reality
+- **自學創意人** 正在努力將熱情轉化為現實
+- **Collaborative Spirit** seeking like-minded partners for innovative projects
+- **開放協作** 尋找志同道合的開發夥伴
+- **Eternal Learner** constantly expanding technical and creative horizons
+- **永遠學習** 不斷拓展技術與創意視野
 
-### 💡 Journey
+### Journey
 I've been captivated by games since childhood. What started as pure enjoyment has evolved into a mission: **to create experiences that move people**. Currently, I'm combining technical skills with creative vision to build games that matter.
 
 ### 🛠️ Tech Stack
@@ -125,13 +129,6 @@ I'm actively seeking partners for:
 
 </div>
 
-## 🎯 關於我
-
-### 🌍 簡介
-- 🎮 **資深遊戲愛好者** 來自台灣，對遊戲開發充滿熱情
-- 🧠 **自學創意人** 正在努力將熱情轉化為現實
-- 🤝 **開放協作** 尋找志同道合的開發夥伴
-- 🌱 **永遠學習** 不斷拓展技術與創意視野
 
 ### 💡 我的故事
 從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
@@ -155,16 +152,6 @@ C#       ███████░░░ 70%  #️⃣
 - 🤖 **創意 AI 整合** 於遊戲中
 - 🎨 **遊戲設計討論** 與腦力激盪
 - 📚 **學習與教學** 遊戲開發概念
-
-### 📫 聯絡方式
-
-| 平台 | 連結 |
-|------|------|
-| **Discord** | [yuyue_71](https://discord.com/users/795999599025848370) |
-| **Email** | dingbolun3@gmail.com |
-| **Instagram** | [@yuyue.code](https://www.instagram.com/yuyue.code?igsh=Nnd1dDh4cHRjN3hy) |
-| **Steam** | [YuYue_Sama](https://steamcommunity.com/profiles/76561199201270570) |
-| **YouTube** | [我的頻道](https://youtube.com/channel/UC1ivyBIvbRxKGYp5UdpBu7w?si=oqWQpm2zeTlvbS5d) |
 
 ### 🎯 開放合作
 - ✅ **遊戲開發協作**
