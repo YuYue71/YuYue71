@@ -120,6 +120,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
+<!--STATS-START-->
+<div align="center">
+  <sub>Last Updated: 2024-01-01 00:00:00 UTC</sub>
+</div>
+<!--STATS-END-->
+
 
 <!-- 隱藏的註解：GitHub Actions 自動更新提示 -->
 <!-- 此 README 會通過 GitHub Actions 定期自動更新統計數據 -->
