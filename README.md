@@ -1,6 +1,6 @@
 <!-- 訪客計數器 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuYue71&style=for-the-badge&color=0d1117&labelColor=181824" alt="Profile Views" />
+  <img src="https://count.getloli.com/@YuYue71?theme=moebooru" alt="Profile Views" />
 </div>
 
 <div align="center">
