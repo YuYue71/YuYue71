@@ -105,6 +105,7 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuYue71&theme=github_dark)
 
 </div>
+> ~~∆∆我要造一個盆地∆∆~~
 
 <div align="center">
 
