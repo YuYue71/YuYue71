@@ -118,7 +118,7 @@
   <sub>Game design isn't about designing games; it's about designing players</sub>
 
   <!--STATS-START-->
-  <sub>Last Updated: 2024-01-01 00:00:00 UTC</sub>
+  <sub>Last Updated: 2026-05-06 00:00:00 UTC</sub>
   <!--STATS-END-->
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
