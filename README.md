@@ -33,7 +33,7 @@
 
 ---
 
-## Profile | 簡介
+## 簡介 | Profile
 - **Passionate Game Developer** from Taiwan with deep love for creative game development
 - **資深遊戲愛好者** 來自台灣，對遊戲開發充滿熱情
 - **Self-taught Creative** learning to transform passion into reality
@@ -47,7 +47,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
 </div>
 
-## Journey | 我的故事
+## 關於我 | Journey
 > - I've been captivated by games since childhood. What started as pure enjoyment has evolved into a mission: **to create experiences that move people**. Currently, I'm combining technical skills with creative vision to build games that matter.
 > - 從小就被遊戲世界所吸引。我的熱情已經演變成一個使命：**創造能感動人心的遊戲體驗**。目前，我正在結合技術技能與創意願景，致力於開發有意義的遊戲作品。
 
