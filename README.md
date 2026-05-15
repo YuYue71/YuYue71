@@ -28,7 +28,7 @@
 <div align="center">
 
 ### 這是我女兒Luna!!
-[!Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E7%B5%A6Markdow%E6%94%BE%E5%9C%96%E7%94%A8%E7%9A%84/Luna_standby.gif)(https://#)
+![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E7%B5%A6Markdow%E6%94%BE%E5%9C%96%E7%94%A8%E7%9A%84/Luna_standby.gif)(https://#)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
 
