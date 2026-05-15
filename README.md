@@ -27,13 +27,14 @@
 
 <div align="center">
 
+### 這是我女兒Luna!!
+![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E7%B5%A6Markdow%E6%94%BE%E5%9C%96%E7%94%A8%E7%9A%84/Luna_standby.gif)
+
 ### 關於我 About Me
 
 </div>
 
 ---
-## 這是我女兒Luna!!
-![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E7%B5%A6Markdow%E6%94%BE%E5%9C%96%E7%94%A8%E7%9A%84/Luna_standby.gif)
 
 ## 簡介 | Profile
 - **Passionate Game Developer** from Taiwan with deep love for creative game development
