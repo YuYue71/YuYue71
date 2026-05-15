@@ -38,7 +38,6 @@
 
 </div>
 
----
 
 ## 簡介 | Profile
 - **Passionate Game Developer** from Taiwan with deep love for creative game development
