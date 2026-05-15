@@ -18,7 +18,7 @@
 
 ### 造訪次數 Number of visits
 
-  <img src="https://count.getloli.com/@YuYue71?theme=moebooru" alt="Profile Views" /> ![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E7%B5%A6Markdow%E6%94%BE%E5%9C%96%E7%94%A8%E7%9A%84/Luna_standby.gif)
+  <img src="https://count.getloli.com/@YuYue71?theme=moebooru" alt="Profile Views" />
 
   <br/>
 
