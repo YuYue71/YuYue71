@@ -28,7 +28,9 @@
 <div align="center">
 
 ### 這是我女兒Luna!!
-[![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/standby.gif)](https://#)
+![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/Luna_Left.png)
+![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/standby.gif)
+![Luna!](https://github.com/YuYue71/GamesDevelop/blob/main/%E5%81%BD%E6%9C%88/%E5%8B%95%E7%95%AB/Player_Luna/gif/Luna_Right.png)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
 
